@@ -1,2 +1,3 @@
 # kdurakha
-This is My first Repository
+This is My Second Repository
+G mushkin & Jillu
